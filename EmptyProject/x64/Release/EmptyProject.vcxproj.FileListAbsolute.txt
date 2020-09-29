@@ -1,0 +1,2 @@
+G:\σχολη\Οπτικος\tictactoe\Project6\EmptyProject\x64\Release\EmptyProject.MainForm.resources
+G:\σχολη\Οπτικος\tictactoe\Project6\EmptyProject\x64\Release\EmptyProject.vcxproj.GenerateResource.cache

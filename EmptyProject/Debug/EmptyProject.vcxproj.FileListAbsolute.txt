@@ -1,0 +1,6 @@
+G:\σχολη\Οπτικος\tictactoe\Project6\EmptyProject\Debug\EmptyProject.vcxprojAssemblyReference.cache
+G:\σχολη\Οπτικος\tictactoe\Project6\EmptyProject\Debug\EmptyProject.MainForm.resources
+G:\σχολη\Οπτικος\tictactoe\Project6\EmptyProject\Debug\EmptyProject.vcxproj.GenerateResource.cache
+C:\Users\gavra\Desktop\tictactoe\EmptyProject\Debug\EmptyProject.vcxprojAssemblyReference.cache
+C:\Users\gavra\Desktop\tictactoe\EmptyProject\Debug\EmptyProject.MainForm.resources
+C:\Users\gavra\Desktop\tictactoe\EmptyProject\Debug\EmptyProject.vcxproj.GenerateResource.cache
